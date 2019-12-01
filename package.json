@@ -1,0 +1,53 @@
+{
+  "name": "grubyxe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.1.0",
+    "@material-ui/icons": "^4.1.0",
+    "@sendgrid/client": "^6.4.0",
+    "@sendgrid/mail": "^6.4.0",
+    "axios": "^0.19.0",
+    "clsx": "^1.0.4",
+    "firebase": "^6.1.1",
+    "material-ui-image": "^3.2.0",
+    "nodemailer": "^6.3.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-ga": "^2.6.0",
+    "react-icons": "^3.7.0",
+    "react-items-carousel": "^2.3.7",
+    "react-multi-carousel": "^2.1.1",
+    "react-parallax": "^2.2.0",
+    "react-responsive-carousel": "^3.1.49",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "styled-components": "^4.3.1",
+    "typeface-roboto": "0.0.54"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0"
+  }
+}
